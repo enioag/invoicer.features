@@ -1,5 +1,8 @@
 
 # h1 Heading 8-)
+
+[test2](test2.md)
+
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -125,7 +128,7 @@ Right aligned columns
 
 ## Links
 
-[link text](http://dev.nodeca.com)
+[test2](test2.md)
 
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
